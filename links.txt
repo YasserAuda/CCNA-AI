@@ -1,0 +1,12 @@
+https://www.youtube.com/watch?v=duWXBnKeEyk
+https://learningnetwork.cisco.com/s/article/introduction-to-ai-amp-machine-learning-part-1-x
+https://viso.ai/deep-learning/ml-ai-models/
+https://h2o.ai/wiki/weights-and-biases/
+https://developers.google.com/machine-learning/crash-course/neural-networks/backpropagation
+https://u.cisco.com/search/tutorial?query=AI%20chatgpt
+
+https://blogs.cisco.com/security/give-your-firewall-admins-superpowers-with-cisco-ai-assistant-for-security
+https://www.cisco.com/site/uk/en/solutions/artificial-intelligence/ai-assistant/index.html
+https://www.cisco.com/site/uk/en/solutions/artificial-intelligence/index.html
+https://www.cisco.com/c/en/us/products/security/artificial-intelligence-ai.html#~overview
+https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2024/pdf/BRKSEC-2294.pdf
